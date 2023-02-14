@@ -10,6 +10,3 @@ I want to learn something useful
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reven0ir)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/reven0ir)  
-
-![Profile views](https://gpvc.arturio.dev/reven0ir)  
