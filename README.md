@@ -58,8 +58,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reven0ir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2&custom_title=What%20i%20use" height="150" alt="languages graph"  />
+<div align="left">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reven0ir&langs_count=8)
+
 </div>
 
 ###
